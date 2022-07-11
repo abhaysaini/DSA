@@ -1,0 +1,5 @@
+Carrier sense multiple access with collision avoidance. 
+The process of collisions detection involves sender receiving acknowledgement signals. If there is just one signal(its own) then the data is successfully sent 
+but if there are two signals(its own and the one with which it has collided) then it means a collision has occurred. 
+To distinguish between these two cases, collision must have a lot of impact on received signal.
+However it is not so in wired networks, so CSMA/CA is used in this case. 

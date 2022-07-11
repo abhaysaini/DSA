@@ -1,0 +1,1 @@
+{"name":"Local: kick-start2022","url":"c:\\Users\\DELL\\OneDrive\\Desktop\\C++\\kick-start2022.cpp","tests":[{"id":1657440413861,"input":"2\n5 1\nABCAA\n4 2\nABAA","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\DELL\\OneDrive\\Desktop\\C++\\kick-start2022.cpp","group":"local","local":true}

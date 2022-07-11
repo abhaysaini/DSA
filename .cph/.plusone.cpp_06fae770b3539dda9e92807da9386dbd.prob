@@ -1,0 +1,1 @@
+{"name":"Local: plusone","url":"c:\\Users\\DELL\\OneDrive\\Desktop\\C++\\plusone.cpp","tests":[{"id":1644133910750,"input":"6\n15 0\n15 10\n11 12\n27 37\n50 49\n5 50","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\DELL\\OneDrive\\Desktop\\C++\\plusone.cpp","group":"local","local":true}

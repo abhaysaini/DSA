@@ -1,0 +1,10 @@
+^C:\USERS\DELL\ONEDRIVE\DESKTOP\OPENCV-TUT\BUILD\CMAKEFILES\92B5A5A43DACAB0812720A204EB4B5A5\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/DELL/OneDrive/Desktop/opencv-tut -BC:/Users/DELL/OneDrive/Desktop/opencv-tut/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/DELL/OneDrive/Desktop/opencv-tut/build/opencv-tut.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

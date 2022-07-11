@@ -1,0 +1,9 @@
+C:/Users/DELL/OneDrive/Desktop/opencv-tut/build/CMakeFiles/Experimental.dir
+C:/Users/DELL/OneDrive/Desktop/opencv-tut/build/CMakeFiles/Nightly.dir
+C:/Users/DELL/OneDrive/Desktop/opencv-tut/build/CMakeFiles/Continuous.dir
+C:/Users/DELL/OneDrive/Desktop/opencv-tut/build/CMakeFiles/NightlyMemoryCheck.dir
+C:/Users/DELL/OneDrive/Desktop/opencv-tut/build/CMakeFiles/opencv-tut.dir
+C:/Users/DELL/OneDrive/Desktop/opencv-tut/build/CMakeFiles/PACKAGE.dir
+C:/Users/DELL/OneDrive/Desktop/opencv-tut/build/CMakeFiles/RUN_TESTS.dir
+C:/Users/DELL/OneDrive/Desktop/opencv-tut/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/DELL/OneDrive/Desktop/opencv-tut/build/CMakeFiles/ZERO_CHECK.dir
